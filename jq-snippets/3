@@ -1,7 +1,0 @@
-Head: main
-Merge: origin/main
-Help: g?
-
-Staged (2)
-A jq-snippets/hello.json
-A jq-snippets/jq.sh
